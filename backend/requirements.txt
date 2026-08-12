@@ -1,0 +1,7 @@
+fastapi==0.110.0
+uvicorn[standard]==0.28.0
+cryptography==42.0.5
+keyring==25.0.0
+sqlmodel==0.0.16
+pydantic-settings==2.2.1
+python-multipart==0.0.9
